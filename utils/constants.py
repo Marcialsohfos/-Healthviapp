@@ -133,7 +133,7 @@ ESSENTIAL_FEATURES = [
 APP_CONFIG = {
     'NAME': 'IA Vulnérabilité Sanitaire - Cameroun',
     'VERSION': '2.0.0',
-    'AUTHOR': 'Équipe de Recherche - Projet MINHDU/BUCREP',
+    'AUTHOR': 'Équipe de Recherche - Lab_Math and CIE-SCSM Group',
     'YEAR': '2026',
     'DATA_SOURCE': 'Enquête 2025 - 266 poches d\'habitat précaire',
     'MAX_FILE_SIZE_MB': 100,
@@ -148,4 +148,5 @@ ERROR_MESSAGES = {
     'INVALID_FORMAT': "❌ Format de fichier non supporté.",
     'UPLOAD_ERROR': "❌ Erreur lors du téléversement du fichier.",
     'PREDICTION_ERROR': "❌ Erreur lors de la prédiction: {error}"
+
 }
