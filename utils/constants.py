@@ -148,5 +148,4 @@ ERROR_MESSAGES = {
     'INVALID_FORMAT': "❌ Format de fichier non supporté.",
     'UPLOAD_ERROR': "❌ Erreur lors du téléversement du fichier.",
     'PREDICTION_ERROR': "❌ Erreur lors de la prédiction: {error}"
-
 }
